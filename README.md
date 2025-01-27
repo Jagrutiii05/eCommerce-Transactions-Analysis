@@ -7,17 +7,16 @@ This repository contains the code and reports for analyzing an eCommerce Transac
 2. **Products.csv**: Product information, including IDs, names, categories, and prices.
 3. **Transactions.csv**: Transaction records, detailing the transactions between customers and products.
 
-## Tasks
-### Task 1: Exploratory Data Analysis (EDA) and Business Insights
+### 1: Exploratory Data Analysis (EDA) and Business Insights
 - Performed EDA on the dataset.
 - Derived actionable business insights based on the analysis.
 - Results in a Jupyter Notebook and a PDF report.
 
-### Task 2: Lookalike Model
+### 2: Lookalike Model
 - Built a model to recommend 3 similar customers based on profile and transaction history.
 - A CSV file containing the top 3 lookalikes for each customer (CustomerID: C0001 - C0020).
 
-### Task 3: Customer Segmentation / Clustering
+### 3: Customer Segmentation / Clustering
 - Applied clustering techniques using customer and transaction data.
 - Calculated DB Index and other metrics for evaluating clustering quality.
 - Visualized the clusters with appropriate plots.
